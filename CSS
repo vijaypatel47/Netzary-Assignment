@@ -53,14 +53,10 @@
 }
 
 .cleanBeats {
-    font-family: Autography;
-    font-size: 48px;
-    font-weight: 400;
+    width: 200px;
+    height: 50px;
     Top: 15.51px;
     Left: 87.11px;
-    line-height: 91px;
-    letter-spacing: 0em;
-    text-align: left;
 }
 
 .side-bar-ion {
